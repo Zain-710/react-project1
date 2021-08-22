@@ -1,0 +1,21 @@
+*{
+    font-family: sans-serif;
+}
+.nav1{
+    box-shadow: 2px 3px 15px 2px;
+}
+.hr{
+    height: 1px;
+    width: 94%;
+    background-color: rgb(241, 238, 238);
+    padding-top: -10vh;
+}
+.names{
+    position: absolute;
+    background-color: black;
+    color: white;
+    width: 15rem;
+}
+.foot{
+    background-color: black;
+}
